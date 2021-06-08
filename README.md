@@ -1,2 +1,2 @@
 # treinawiki
-Página clone da wikipédia implementada de acordo com curso da TreinaWeb
+Página clone da Wikipédia implementada de acordo com curso da TreinaWeb
